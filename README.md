@@ -57,9 +57,9 @@
 
 **Ссылки на используемый материал**
 
-https://habr.com/ru/articles/781866/
+[Замыкание](https://habr.com/ru/articles/781866/)
 
-https://habr.com/ru/companies/otus/articles/727590/
+[Декоратор](https://habr.com/ru/companies/otus/articles/727590/)
 
-https://habr.com/ru/companies/wunderfund/articles/683880/
+[Логирование](https://habr.com/ru/companies/wunderfund/articles/683880/)]
 
