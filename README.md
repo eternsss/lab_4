@@ -61,5 +61,5 @@
 
 [Декоратор](https://habr.com/ru/companies/otus/articles/727590/)
 
-[Логирование](https://habr.com/ru/companies/wunderfund/articles/683880/)]
+[Логирование](https://habr.com/ru/companies/wunderfund/articles/683880/)
 
